@@ -61,6 +61,6 @@ I thrive on transforming complex problems into innovative technological solution
 - I'm always eager to collaborate and explore exciting opportunities in AI, machine learning, and data science.
 ### 📧 Email: pralohareddy1307@gmail.com
 ### 💼 https://www.linkedin.com/in/praloha-jyothi/
-### 🔗 https://github.com/#
+### 🔗 https://github.com/pralohareddy
 
  ## Thank you for visiting my introduction repository! Feel free to check out my projects, connect, or reach out for collaboration.
